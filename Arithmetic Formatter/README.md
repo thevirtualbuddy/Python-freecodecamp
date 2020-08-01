@@ -1,4 +1,4 @@
-### Assignment
+### Arithmetic Formatter
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 ```
@@ -64,6 +64,3 @@ Write your code in `arithmetic_arranger.py`. For development, you can use `main.
 
 The unit tests for this project are in `test_module.py`. We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
